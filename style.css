@@ -1,0 +1,44 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    background-size:cover;
+
+    background-repeat: no-repeat;
+
+}
+
+#camera{
+    border-radius: 5px ;
+    border: white 3px groove;
+    height: 200px ;
+    width: 200px;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    padding-top: 10px;
+    height: 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.445);
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.heading_div{
+    float: none;
+    background: rgb(231,207,185);
+background: linear-gradient(90deg, rgb(231, 181, 133) 0%, rgba(64, 255, 0, 0.658) 33%, rgba(255, 0, 208, 0.733) 62%, rgba(81, 0, 255, 0.719) 100%);
+    padding: 10px;
+    border-radius: 20px;
+    color: black; 
+    font-size: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.445);
+}
+
+.heading_div2{
+    font-size: 18px;
+    color: white;
+    border-radius: 5px;
+    width: 350px;
+}
